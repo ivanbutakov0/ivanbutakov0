@@ -1,4 +1,12 @@
-## Hi there 👋
+
+<div align="center">
+    <h1>Hi there, I'm Ivan👋</h1>
+    <p>Frontend developer</p>
+    <a href="https://t.me/ivanbutakov0"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram">
+</a>
+</div>
+
+
 
 <!--
 **ivanbutakov0/ivanbutakov0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-markdown
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanbutakov0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
