@@ -9,7 +9,7 @@
 
 <h3>About Me:</h3>
 <ul>
-    <li>🌐 Frontend developer with 1+ years of experience bringing ideas to life on the web</li>
+    <li>🌐 Frontend developer with 2+ years of experience bringing ideas to life on the web</li>
     <li>✨ Passionate about creating clean, efficient code that delivers a smooth user experience</li>
     <li>🌱 Eager to learn new technologies and frameworks to stay ahead of the curve</li>
     <li>🤝 Team player with a strong work ethic and a dedication to meeting deadlines</li>
